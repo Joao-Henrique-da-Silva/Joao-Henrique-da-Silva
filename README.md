@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🚀 Tecnologias que uso
 
-<!--
-**Joao-Henrique-da-Silva/Joao-Henrique-da-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Skill Icons - para mostar as ferramentas -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,spring,mysql,git,docker&perline=5" />
+</p>
 
-Here are some ideas to get you started:
+## 📊 Estatísticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Gráfico de linguagens mais usadas -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/joao-henrique-da-silva?theme=dark">
+  <img alt="Linguagens mais usadas" src="https://github-used-languages.vercel.app/joao-henrique-da-silva">
+</picture>
